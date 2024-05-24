@@ -1,0 +1,23 @@
+div{
+    height:200px ;
+    width:500px ;
+    background-color: pink;
+    /* border-width: 5px;
+    border-style: solid;
+    border-color: black; */
+    /* we can write with both ways but prefer down one. */
+    /* border:5px solid black;
+    border-left-color:blue;
+    border-left-style: dashed;   */
+    /* border-top : 5px dashed blue; */
+    border: 5px solid black;
+    /* border-top-right-radius: 50px; */
+    border-radius: 10px;
+}
+h1{
+    /* border-width: 2px;
+    border-style: dashed;
+    border-color: green; */
+    border: 2px dashed green;
+    /* border-radius: 50%; */
+}

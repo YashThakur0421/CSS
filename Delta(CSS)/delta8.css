@@ -1,0 +1,40 @@
+/* #outer{
+    height: 200px;
+    width: 70px;
+    border: 2px solid black;
+}
+.inner {
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    margin: 10px;
+    border-radius: 50%;
+}
+#red{
+    background-color: red;
+}
+#yellow{
+    background-color: yellow;
+}
+#green{
+    background-color: green;
+} */
+
+h1 {
+    border: 2px solid black;
+    width: 50%;
+}
+
+#outer {
+    height: 300px;
+    width: 300px;
+    background-color: pink;
+    margin: 50px;
+}
+
+#inner {
+    height: 100px;
+    width: 100px;
+    background-color: cornflowerblue;
+    margin: 10px;
+}

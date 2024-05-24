@@ -1,0 +1,34 @@
+/* h1{
+    text-align: center;
+    text-decoration: red underline;
+    line-height: normal;
+    letter-spacing: normal;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    text-align: justify;
+    text-decoration: pink  overline;
+}
+h2{
+    text-align: left;
+    font-weight: 400;;
+}
+h3{
+    text-align: start;
+    text-decoration:blue line-through;
+}
+a{
+    text-decoration: none;
+} */
+h1 {
+    font-family: league spartan;
+    color: #ffa511;
+    text-align: center;
+    font-size: 55px;
+    font-weight: 900;
+    letter-spacing: 2px;
+    line-height: 1.5;
+    text-decoration: teal double underline;
+    text-transform: uppercase;
+}
